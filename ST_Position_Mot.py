@@ -8,7 +8,8 @@ READ ME: this code allow you to run a Stroop Test with words and positions.
 the word itself. The color of the word will indicate which rule to follow.
 The results are shown at the end. However, it is not recording your data.
 You need to download 2 beep .wav (which can be find online) for the correct and 
-false beep feedback. Name them beep_correct and beep
+false beep feedback. Rename them beep_correct and beep, and include them 
+in the same file as your code.
 """
 
 #%% Parameters
